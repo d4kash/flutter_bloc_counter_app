@@ -1,3 +1,7 @@
 # flutter_bloc
 
-A new Flutter project.
+Counter App
+# using dependencies:
+  # * flutter_bloc
+  # * bloc
+  # * equtable
